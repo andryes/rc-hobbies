@@ -1,2 +1,2 @@
 # rc-hobbies
-Test WooCommerce store
+Test WordPress / WooCommerce store (Storefront theme)
